@@ -62,7 +62,7 @@ nav {
    background-color: red;
 
    /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
-   background-color: #6b2700;
+   background-color: blue;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
